@@ -2,6 +2,8 @@
 
 SimonGame is an online musical memory game designed as an example of a web application developed with JavaScript. The goal of the game is to repeat a growing sequence of musical notes.
 
+![](https://github.com/JOSEW383/simongame/blob/master/public/SimonGameDemo.gif)
+
 ## Installation
 
 To install SimonGame, follow these steps:
