@@ -1,3 +1,4 @@
+[![pages-build-deployment](https://github.com/JOSEW383/SimonGame/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/JOSEW383/SimonGame/actions/workflows/pages/pages-build-deployment)
 # SimonGame
 
 SimonGame is an online musical memory game designed as an example of a web application developed with JavaScript. The goal of the game is to repeat a growing sequence of musical notes.
